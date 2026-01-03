@@ -8,7 +8,6 @@ This project focuses on layout accuracy, alignment, and modern CSS techniques wh
 
 ## Live Demo
 
-pdate
 https://mygoogle-homepage-clone.netlify.app/
 
 ---
