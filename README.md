@@ -8,11 +8,12 @@ This project focuses on layout accuracy, alignment, and modern CSS techniques wh
 
 ## Live Demo
 
-👉 https://lotacodic.github.io/google-homepage-clone/
+pdate
+https://mygoogle-homepage-clone.netlify.app/
 
 ---
 
-## 🛠 Built With
+## Built With
 
 - HTML5
 - CSS3
@@ -30,7 +31,7 @@ This project focuses on layout accuracy, alignment, and modern CSS techniques wh
 
 ## Preview
 
-![Google Homepage Clone Preview](./assets/preview.png)
+[![Google Homepage Clone Preview](./assets/preview.png)](https://mygoogle-homepage-clone.netlify.app/)
 
 ---
 
@@ -49,7 +50,7 @@ This project is for **educational purposes only** and is not affiliated with or 
 
 ---
 
-## 📬 Contact
+## Contact
 
 Built by **Lotacodic**  
 Twitter/X: https://x.com/lotacodic  
